@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://www.isdi.education/uploads/media/open-graph/08/1278-Captura%20de%20pantalla%202021-09-24%20a%20las%2014.22.27.png?v=1-0" alt="ISDI-logo" width="100"/>
     <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="npm-logo" width="50"/>
     <img src="https://i.blogs.es/545cf8/es6-logo/450_1000.png" alt="es6-logo" width="50"/>
     <img src="https://teorema-rd.com/storage/2020/05/Html5-JS-css-logo.jpg" alt="html5-css3-js-logo" width="150"/>
